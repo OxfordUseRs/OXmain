@@ -43,6 +43,6 @@ The structure of the Oxford.R group:
 
 
 <h4> David Ruvolo</h4>
-<a href="http://www.davidcruvolo.com/" target="_blank">davidcruvolo.com</a>
+<a href="http://www.davidcruvolo.com/" target="_blank">davidcruvolo.com</a><br>
 Department of Psychiatry<br>
 
